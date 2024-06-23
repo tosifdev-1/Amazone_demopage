@@ -1,0 +1,46 @@
+#navbaar{
+  height:40px;
+  background-color:black;
+  
+}
+#logo{
+  color:RGB(245, 173, 66);
+}
+a{
+ color:white;
+  text-decoration:none;
+  margin-right:150px;
+ font-family:arial;
+}
+button{
+ background-color: RGB(245, 173, 66) 
+}
+
+.#{
+ height: 100px;
+  width:100px;
+  
+}
+
+.footer{
+ background-color:black;
+  height:50px;
+  margin-top:43px
+  
+}
+#contant{
+ height:310px; 
+  width:1234px;
+  background-image: url(https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg);
+  margin-top:10px;
+  display:inline-block;
+  box-shadow: 0px 0px 10px grey;
+    background-size: 300px 100px;
+}
+footer{
+ color:white; 
+  font-family: arial;
+  
+}
+
+

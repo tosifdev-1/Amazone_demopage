@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <div id="navbaar">
+        <a id="logo" href="a1">Amazone.in</a>
+        <a href="a2">My Cart</a>
+        <a href="a3">Contact Us</a>
+        <input type="search" placeholder="Search Amazone.in" />
+        <button>Search</button>
+    </div>
+</head>
+<contant>
+    <div id="contant">
+    </div>
+
+</contant>
+
+<body>
+    <div class="#">
+    </div>
+    <div class="#">
+    </div>
+    <div class="#">
+    </div>
+</body>
+<footer>
+    <div class="footer">
+	&#169; 1996-2024, Amazon.com, Inc. or its affiliates
+    </div>
+</footer>
+
+</html>
